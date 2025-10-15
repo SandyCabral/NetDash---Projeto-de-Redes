@@ -11,7 +11,7 @@ a qualidade de uma conexão de rede, medindo métricas como latência, jitter e 
 ## Instruções de Instalação
 
 1. Clone este repositório:
-   `git clone SEU_URL_AQUI.git`
+   `git clone https://github.com/SandyCabral/NetDash---Projeto-de-Redes.git`
 2. Navegue até a pasta do projeto:
    `cd projeto-netdash`
 3. Execute a aplicação:
@@ -20,6 +20,6 @@ a qualidade de uma conexão de rede, medindo métricas como latência, jitter e 
 ## Autoria e Contribuições
 
 - João Vicente
-- Lucas
-- Pâmella
-- Sandy
+- Lucas Dias
+- Pâmella Azevedo
+- Sandy Cabral
