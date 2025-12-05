@@ -9,7 +9,7 @@ import threading  # Importamos a biblioteca de threading
 
 
 # ==============================================================================
-#  MOTOR DE MONITORAMENTO (Nosso código anterior, sem alterações)
+#  MOTOR DE MONITORAMENTO
 # ==============================================================================
 
 def ping_target(target):
@@ -30,7 +30,7 @@ def ping_target(target):
 
 
 # ==============================================================================
-#  INTERFACE GRÁFICA (Agora com as funções dos botões)
+#  INTERFACE GRÁFICA
 # ==============================================================================
 
 class NetDashApp:
